@@ -69,14 +69,14 @@ Gantilah teks pada bagian atas dengan Nama - NIM Anda.
 
 ### Jawaban Soal 3
 
-![Screenshot](assets-report/01.png)
+![Screenshot](asset-report/01.png)
 
 ### Soal 4
 Buatlah komponen MyTextNimName() berdasarkan kode dari soal nomor 3 sebelumnya. Lalu panggillah komponen tersebut. Apakah ada perubahan tampilan ? Mengapa demikian ?
 
 ### Jawaban Soal 4
 
-![Screenshot](assets-report/02.png)
+![Screenshot](asset-report/02.png)
 
 Tidak ada perubahan 
 
@@ -85,7 +85,7 @@ Buatlah komponen MyPage() berdasarkan project praktikum 1 ini yang berisi kode-k
 
 ### Jawaban Soal 5
 
-![Screenshot](assets-report/03.png)
+![Screenshot](asset-report/03.png)
 
 Tidak ada perubahan pada kode tersebut
 
@@ -94,4 +94,4 @@ Gunakanlah Kode JSX image tersebut, ganti dengan NIM, Nama Anda beserta link gam
 
 ### Jawaban Soal 6
 
-![Screenshot](assets-report/04.png)
+![Screenshot](asset-report/04.png)
